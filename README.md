@@ -1,5 +1,7 @@
+# Notes below are from the original project from 2019
+
 ## ML-Model-Flask-Deployment
-This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
+This is a demo project to elaborate how Machine Learn Models are deployed in production using Flask API
 
 ### Prerequisites
 You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
