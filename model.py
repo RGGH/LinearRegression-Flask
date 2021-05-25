@@ -28,9 +28,6 @@ y = dataset.iloc[:, -1]
 from sklearn.linear_model import LinearRegression
 regressor = LinearRegression()
 
-#from sklearn.tree import DecisionTreeRegression
-#regressor = DecisionTreeRegression()
-
 #Fitting model with trainig data
 regressor.fit(X, y)
 
